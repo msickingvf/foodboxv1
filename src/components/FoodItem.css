@@ -1,0 +1,40 @@
+.itemBox{
+    margin-top: 10px;
+    background-color: white;
+    border:1px solid #ced4da;
+    border-radius:.375rem;
+    padding: .375rem .75rem;
+    height:auto;
+    width:100%;
+    float:left;
+}
+
+h4 {
+    font-size: 70%;
+}
+h2 {
+    font-size: 150%;
+}
+
+.details {
+    float:none;
+    border:0px solid black;
+}
+
+.foodPicture img {
+    height:60px;
+    width:60px; 
+    float:left; 
+    margin-right:10px;
+}
+
+.priceDiv {
+    font-size: 150%;
+    float:right;
+    border:0px solid black;
+}
+
+.toCart{
+    border:0px solid black;
+    text-align: center;
+}

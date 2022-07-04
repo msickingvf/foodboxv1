@@ -1,0 +1,119 @@
+.ContentBoxx{
+    background-color: rgb(241, 243, 246);
+    font-size: 100%;
+    width: 1050px;
+    height: auto;
+    margin: auto;
+    left: 50%;
+    transform: translate(-50%);
+    /*border:2px solid rgb(2, 12, 20);*/
+    border-radius:10px;
+    text-align: left;
+    padding:10px;
+    min-height: 0px;
+    position:absolute;
+    /*overflow-y:auto;*/
+}
+
+.categorySelect {
+    width: 30%;
+}
+
+.foodSearch {
+    background-color: white;
+    width: 30%;
+}
+
+.orderByButton {
+    margin-top: 1px;
+}
+
+.orderByText{
+    margin-block-end: 1px;
+}
+.shoppingCartDiv{
+    float:left;
+    border:0px solid rgb(2, 12, 20);
+    width:20%;
+    height: 100%;
+}
+
+.filterAndSorting{
+    float:left;
+    border:0px solid rgb(2, 12, 20);
+    width:80%;
+}
+
+.checkOutItem {
+    clear:both;
+    margin-top: 10px;
+    background-color: white;
+    border:1px solid #ced4da;
+    border-radius:.375rem;
+    padding: .375rem .75rem;
+    height:auto;
+    width:100%;
+    float:left;
+}
+
+.checkOutFoodPicture img {
+    height:60px;
+    width:60px; 
+    float:left; 
+    margin-right:10px;
+}
+
+.checkOutFoodPicture {
+    float:left; 
+}
+
+.checkOutFoodInfo {
+    float:left;
+}
+
+.checkOutFoodInfo h4 {
+    font-size: 70%;
+}
+.checkOutFoodInfo h2 {
+    font-size: 150%;
+}
+.checkOutFoodPrice{
+     float:right;
+}
+.totalPrice {
+    text-align:left;
+}
+
+.adminNav{
+    left: 15%;
+    position:relative;
+}
+
+.adminNav button{
+    margin-left:40px;
+}
+
+.editFoodButton {
+    float:left;
+    margin:10px;
+}
+
+.inputField {
+    text-align: left;
+}
+.form-check-input{
+    margin-left: 5px;
+}
+
+.lastOne{
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    margin-top: 5px;
+}
+
+.error{
+    color:red;
+  }
+
